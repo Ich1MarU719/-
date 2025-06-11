@@ -89,7 +89,7 @@ toString() 方法會把物件轉成可儲存的文字格式。
 在離開程式時，將所有書籍和會員資料的變更儲存起來。
 
 
-![GitHub图像](/images/https://raw.githubusercontent.com/Ich1MarU719/-/refs/heads/master/photo/Screenshot%202025-06-11%20171359.png)
+![GitHub图像](/images/photo/Screenshot 2025-06-11 171359.png)
 
 
 ![GitHub图像](/images/your-image.png)
