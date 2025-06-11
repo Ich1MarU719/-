@@ -88,6 +88,7 @@ toString() 方法會把物件轉成可儲存的文字格式。
 查看自己的會員資料和已借閱的書籍清單。
 在離開程式時，將所有書籍和會員資料的變更儲存起來。
 
+<img src="[images/pic1.png](https://raw.githubusercontent.com/Ich1MarU719/-/refs/heads/master/photo/Screenshot%202025-06-11%20171359.png)" alt="描述" >
 
 
 https://raw.githubusercontent.com/Ich1MarU719/-/refs/heads/master/photo/Screenshot%202025-06-11%20171359.png
