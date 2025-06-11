@@ -89,11 +89,14 @@ toString() 方法會把物件轉成可儲存的文字格式。
 在離開程式時，將所有書籍和會員資料的變更儲存起來。
 
 
-![Raw GitHub Image](/images/https://raw.githubusercontent.com/Ich1MarU719/-/refs/heads/master/photo/Screenshot%202025-06-11%20171359.png)
+https://raw.githubusercontent.com/Ich1MarU719/-/refs/heads/master/photo/Screenshot%202025-06-11%20171359.png
 
 https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230208.png
-![Raw GitHub Image](/images/https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230234.png)
-![Raw GitHub Image](/images/https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230428.png)
-![Raw GitHub Image](/images/https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230515.png)
-![Raw GitHub Image](/images/https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230545.png)
-![Raw GitHub Image](/images/https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230632.png)
+
+https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230234.png
+
+https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230515.png
+
+https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230545.png
+
+https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230632.png
