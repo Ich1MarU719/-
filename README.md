@@ -1,0 +1,97 @@
+組別號碼：24
+系級班級：資工1A
+組員：朱冠違、徐易嵐
+專題題目：圖書館裡系統
+使用規則： 
+1啟動系統
+使用者需透過主程式（main.cpp）啟動系統。
+
+系統將載入現有的書籍與會員資料（如果有檔案的話）。
+功能選單說明
+系統會顯示一個功能選單
+書籍操作規則
+新增書籍
+系統會要求輸入書名、作者、分類。
+
+系統自動設定為「可借閱」狀態。
+
+2借閱書籍
+使用者需輸入會員編號與書籍編號。
+
+若書籍已被借出，系統會顯示錯誤提示。
+
+借出後，書籍狀態變更為「已借出」。
+
+3 歸還書籍
+使用者需輸入會員編號與書籍編號。
+
+若該書未被此會員借出，會顯示錯誤。
+
+歸還後，書籍狀態改為「可借閱」。
+
+ 4. 會員操作規則
+ 新增會員
+系統會要求輸入會員名稱。
+
+每位會員有唯一編號。
+
+可選擇是否為 VIP（VIP 借書上限較高）。
+
+ 借書限制
+一般會員最多可借 3 本書。
+
+VIP 會員最多可借 5 本書。
+ 5. 檔案儲存與讀取
+儲存資料
+系統可將書籍與會員資訊寫入 .txt 檔案（如 books.txt、members.txt）。
+
+toString() 方法會把物件轉成可儲存的文字格式。
+
+載入資料
+系統會在啟動時讀取先前儲存的檔案，自動載入資料。
+
+6. 編碼格式
+所有 .txt 檔案請使用 UTF-8 編碼。
+
+開啟 .txt 時，請在 Visual Studio 中：
+
+右鍵 → 以「編碼方式」開啟 → 選擇「UTF-8」。
+
+7. 錯誤處理
+系統會針對錯誤輸入顯示提示：
+
+輸入無效編號
+
+借閱超過上限
+
+重複借閱或歸還未借的書
+
+
+使用流程
+啟動程式後，輸入自己的會員編號登入。
+
+成功登入後進入主選單，選擇要執行的功能。
+
+可以瀏覽書籍、借書、還書，或檢查自己的會員資訊。
+
+離開系統時，所有變更（如借出書、歸還書）會自動存回檔案。
+
+
+程式功能概述
+這個程式模擬了一個小型的圖書館系統。它讓使用者可以：
+
+透過會員編號登入。
+瀏覽所有可用的書籍。
+按分類搜尋書籍。
+借閱書籍（如果書籍可用且未超過借閱上限）。
+歸還書籍。
+查看自己的會員資料和已借閱的書籍清單。
+在離開程式時，將所有書籍和會員資料的變更儲存起來。
+
+
+![GitHub图像]([/images/your-image.png](https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230208.png))
+![GitHub图像]([/images/your-image.png](https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230234.png))
+![GitHub图像]([/images/your-image.png](https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230428.png))
+![GitHub图像]([/images/your-image.png](https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230515.png))
+![GitHub图像]([/images/your-image.png](https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230545.png))
+![GitHub图像]([/images/your-image.png](https://github.com/Ich1MarU719/-/blob/master/photo/Screenshot%202025-06-10%20230632.png))
